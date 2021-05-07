@@ -169,7 +169,7 @@ for i in range (100):
        if com=="3":
                 os.system("clear")
                 time.sleep(1)
-                os.system("cd new;cd virus;python virus1.py")
+                os.system("cd new;cd AmlikeScanner;cd AmlikeScanner;python AmlikeScanner.py")
        if com=="4":
                 os.system("clear")
                 os.system("figlet Upgrading amlike scanner")
