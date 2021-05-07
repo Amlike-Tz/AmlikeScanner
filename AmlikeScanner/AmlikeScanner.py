@@ -181,7 +181,7 @@ for i in range (100):
                 os.system("cd AmlikeScanner")
                 os.system(yellow+"\t UPGRADING COMPLETED NOW THE TOOL IS UP TO DATE.ENJOY")
                 time.sleep(2)
-                os.system("cd AmlikeScanner;python AmlikeScanner.py")
+                sys.exit("YOUR TOOOL IS UP TO DATE!! RUN IT FROM YOUR TERMINAL")
                 print("")
        if com=="0":
                 os.system("clear")
