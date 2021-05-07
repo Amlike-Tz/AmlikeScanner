@@ -177,7 +177,7 @@ for i in range (100):
                 os.system("pkg install python")
                 os.system("pkg install git")
                 os.system("pkg install lolcat")
-                os.system("cd;rm -rf AmlikeScanner;https://github.com/Amlike-Tz/AmlikeScanner.git")
+                os.system("cd;rm -rf AmlikeScanner;git clone https://github.com/Amlike-Tz/AmlikeScanner.git")
                 os.system(yellow+"\t UPGRADING COMPLETED NOW THE TOOL IS UP TO DATE.ENJOY")
                 time.sleep(2)
                 os.system("cd AmlikeScanner;python AmlikeScanner.py")
