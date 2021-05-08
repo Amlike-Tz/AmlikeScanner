@@ -22,6 +22,9 @@ $ apt install git
 $ pkg install python
 
 
+$ pip install requests
+
+
 $ https://github.com/Amlike-Tz/AmlikeScanner.git
 
 
