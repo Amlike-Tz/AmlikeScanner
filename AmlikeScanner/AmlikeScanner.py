@@ -181,8 +181,8 @@ for i in range (100):
                 os.system("clear")
                 print("PLEASE WAIT...&& HONGERAAA NOW YOUR TOOL IS UP TO DATE™✓✓✓")
                 time.sleep(3)
-                os.system("/data/data/com.termux/files/home && cd AmlikeScanner && cd AmlikeScanner")
-                os.system("python AmlikeScanner.py")
+                sys.exit("START YOUR UPDATE FROM TERMINAL")
+                time.sleep(3)
        if com=="0":
                 os.system("clear")
                 print("")
