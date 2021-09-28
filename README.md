@@ -1,15 +1,14 @@
-## AmlikeScanner v1
+# AmlikeScanner v1
 
-## Author: https://github.com/Amlike-Tz
-## Tellegram: http://@AmlikeTz
+# Author: https://github.com/Amlike-Tz
 
-### AmlikeScanner is a simple script used in information gathering(scanning and tracing devices using IP addresses).. Also inside the program theris different android phones spam apk
+# AmlikeScanner is a simple script used in information gathering(scanning and tracing devices using IP addresses).. Also inside the program theris different android phones spam apk
 
 
-## Legal Disclaimer:
+# Legal Disclaimer:
 Usage of AmlikeScanner for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
-## Installing (Tested on Kali Linux, And Termux)
+# Installing (Tested on Kali Linux, And Termux)
 #This program bases on python script
 
 ,,,,,,
@@ -40,9 +39,7 @@ $ chmod +x AmlikeScanner.py
 $ python AmlikeScanner.py
 
 ,,,,,,,,
-## Detailed Article:
-https://www.termux.in/2021/how to scan ip and website
 
-## Start Disscussion on AmlikeScanner 
+# Start Disscussion on AmlikeScanner 
 Want to discuss about AmlikeScanner  with us? (Click Here) Wa.me//:+6288276582841 or find me on Tellegram @AmlikeTz .
 
